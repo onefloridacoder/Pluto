@@ -7,3 +7,8 @@ It's been a minute since I worked with Azure, actually pre-GU using the 1.x fram
 
 The DMA tool couldn't figure out where my local server was, or how to connect to this, and I'm taking the wrap for this.  I dropped back into SSMS and used the migration task for the database context menu.  This approach understands the source server, and just needs some extra information for the Azure SQL Db deploy.
 
+# Azure Details
+The next step in the wizard needs to the Azure *database server*, if you don't have an instance to push to create one, then choose it from your resource group.  The wizard is looking for the Az SQL DB instance - in my case it was already categorized as a database (instance) hosted by the VM when I chose to create an Az SQL Db.
+
+# SQL Authentication
+Once you've authenticated with the Az SQL Db instance - and verified your selections on the following page, you'll be presented with a dialog to start the migration.  Fingers crossed... it worked!  Both the schema and the data are visible inside SSMS after a refresh on the database node within SSMS.

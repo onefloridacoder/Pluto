@@ -12,3 +12,11 @@ The next step in the wizard needs to the Azure *database server*, if you don't h
 
 # SQL Authentication
 Once you've authenticated with the Az SQL Db instance - and verified your selections on the following page, you'll be presented with a dialog to start the migration.  Fingers crossed... it worked!  Both the schema and the data are visible inside SSMS after a refresh on the database node within SSMS.
+
+# WebAPI Deploy from VS2019 (Enterprise)
+Swagger package add-in / missing dependency for Swashbuckle.EntityFramework.Core - SwashBuckle.Entity 
+Successfully installed 'Microsoft.Extensions.ApiDescription.Server 3.0.0' to PlutoWebApi
+Successfully installed 'Swashbuckle.AspNetCore 5.3.3' to PlutoWebApi
+Successfully installed 'Swashbuckle.AspNetCore.SwaggerGen 5.3.3' to PlutoWebApi
+Successfully installed 'Swashbuckle.AspNetCore.SwaggerUI 5.3.3' to PlutoWebApi
+

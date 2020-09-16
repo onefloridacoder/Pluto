@@ -20,3 +20,6 @@ Successfully installed 'Swashbuckle.AspNetCore 5.3.3' to PlutoWebApi
 Successfully installed 'Swashbuckle.AspNetCore.SwaggerGen 5.3.3' to PlutoWebApi
 Successfully installed 'Swashbuckle.AspNetCore.SwaggerUI 5.3.3' to PlutoWebApi
 https://www.thecodebuzz.com/iservicecollection-does-not-contain-a-definition-of-addswaggergen/
+
+# Azure App Service Deploy
+APIM - Azure API Management Instance?

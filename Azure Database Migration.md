@@ -26,3 +26,11 @@ APIM - Azure API Management Instance?
 
 # GitHub PAT
 Personal access tokens function like ordinary OAuth access tokens. They can be used instead of a password for Git over HTTPS, or can be used to authenticate to the API over Basic Authentication => https://docs.github.com/v3/auth/#basic-authentication 24d9cccc624cceca416667a65efa1c47dfe17093
+
+
+
+%APPDATA%\Microsoft\UserSecrets\4b7f6a2c-de7b-4852-bab8-f54d9f9805d9\secrets.json
+
+Key Vault Usage
+https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2020/
+

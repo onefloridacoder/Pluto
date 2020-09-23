@@ -34,3 +34,15 @@ Personal access tokens function like ordinary OAuth access tokens. They can be u
 Key Vault Usage
 https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-april-2020/
 
+# Git VS Integration, More practice
+Seems my Git foo is pretty lame as well.  Years ago it was all command-line interaction, and now the Git-VS integration/extensions can do all of this for us, within the IDE.  In any case, I lost a day's work all with one stash.  The IDE was connected to the remote repo, and after the stash, there was no optin to commit/push to the remote repo.  I returned the IDE the following day, and all the tools outside of VS displayed any stashed objects locally to recover.
+
+I used this to test myself on what I had learned over the previous three days.  I rebuilt all of the missing code by hand, and checked that in.  It helped b/c I wanted a local version of the API and database to interact with as I rev'd to newer versions of the code base.  Once it's checked into Github, I'll hope back into the Azure migration.  In the meantime, I'm directing my focus toward a/the UI.  
+
+# Angular
+When I last looked at this UI technology, it was called AngularJS - very popular and well regarded in the community.  Years ago, I understood how it worked, and why it worked like it did, but I didn't actively code any web apps/UIs.  Since then the base product went through many revisions and re-released as Angular sans the "JS" suffix.  
+
+I'm taking a few days to walk/work through the tutorial to build a UI which looks very much like something I can put in front of the API I created prior.  After its built, it'll be a little sketchy for me to deploy this.  The deployment is an unknown space for how this will be hosted in the cloud.  But, I won't have any previous experience like I've had for these other efforts to create confusing collusions in my mind.  Fresh ground to dig into.
+
+
+

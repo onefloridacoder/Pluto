@@ -42,7 +42,11 @@ I used this to test myself on what I had learned over the previous three days.  
 # Angular
 When I last looked at this UI technology, it was called AngularJS - very popular and well regarded in the community.  Years ago, I understood how it worked, and why it worked like it did, but I didn't actively code any web apps/UIs.  Since then the base product went through many revisions and re-released as Angular sans the "JS" suffix.  
 
+https://angular.io/tutorial
 I'm taking a few days to walk/work through the tutorial to build a UI which looks very much like something I can put in front of the API I created prior.  After its built, it'll be a little sketchy for me to deploy this.  The deployment is an unknown space for how this will be hosted in the cloud.  But, I won't have any previous experience like I've had for these other efforts to create confusing collusions in my mind.  Fresh ground to dig into.
 
+Finished the tutorial - it was presented in a way you could build a non-trivial application with what was shared.  While I was going through this, I kept thinking about how we would accomplish these types of constructs 8, 10, 15 years ago.  It would have been miles of code, literally.  This served me well, and I'm planning the UI for the public-facing Azure API UI.  It'll probably be ugly, not a great CSS dev, but it will definitely work, from the cloud.
+
+# Snoopy UI
 
 

@@ -47,6 +47,9 @@ I'm taking a few days to walk/work through the tutorial to build a UI which look
 
 Finished the tutorial - it was presented in a way you could build a non-trivial application with what was shared.  While I was going through this, I kept thinking about how we would accomplish these types of constructs 8, 10, 15 years ago.  It would have been miles of code, literally.  This served me well, and I'm planning the UI for the public-facing Azure API UI.  It'll probably be ugly, not a great CSS dev, but it will definitely work, from the cloud.
 
+# Ng Architecture
+https://angular.io/guide/architecture
+
 # Snoopy UI
 
 
